@@ -1,0 +1,3571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Default for BDP</text>
+
+    </category>
+  </question>
+
+<!-- question: 173  -->
+  <question type="matching">
+    <name>
+      <text>Q46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Four Vs of Big Data<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>......... refers to the size of data.<br></p>]]></text>
+      <answer>
+        <text>Volume</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>........ refers to the speed at which the data is being generated.<br></p>]]></text>
+      <answer>
+        <text>Velocity</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>...... refers to the different formats in which the data is being stored.&nbsp;<br></p>]]></text>
+      <answer>
+        <text>Variety</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>....... refers to abnormality, biases, and noise in data.<br></p>]]></text>
+      <answer>
+        <text>Veracity</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 188  -->
+  <question type="matching">
+    <name>
+      <text>Q51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Some of the specific types of business analytics are:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p></p>Tracks the main performance indicators to comprehend the present state of a business.<br><p></p>]]></text>
+      <answer>
+        <text>Descriptive Analytics</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>&nbsp;Analyzes the trend data to evaluate the probability of future outcomes.<br><br></p>]]></text>
+      <answer>
+        <text>Predictive Analytics</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Uses past performance to create recommendations about how to manage related situations in the future.<br><br></p>]]></text>
+      <answer>
+        <text>Prescriptive Analytics</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 199  -->
+  <question type="matching">
+    <name>
+      <text>Q62</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Following are some of the Websites that generate Big Data.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>............ provides statistics on search volume for a specified term?<br></p>]]></text>
+      <answer>
+        <text>Google Trends</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>........ offers 40 years of stock market information and real-time updates.</p>]]></text>
+      <answer>
+        <text>Google Finance</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>................... searches and analyses the data from millions of books digitized as part of the Google Books project.</p>]]></text>
+      <answer>
+        <text>Google Books</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>...................... shares details regarding world development indicators, OECD (Economic Co-operation and Development) and human development indicators, mostly associated with economics data and the world.</p>]]></text>
+      <answer>
+        <text>Google Public data explorer</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 200  -->
+  <question type="matching">
+    <name>
+      <text>Q63</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Following are some of the Websites that generate Big Data.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>............. is a UK national website that offers information of UK National Health Service.<br></p>]]></text>
+      <answer>
+        <text>NHS Digital</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>........ offers statistics on women and children's situation from across the world.</p>]]></text>
+      <answer>
+        <text>World Website UNICEF</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>................... provides information on world hunger, health, and disease statistics.</p>]]></text>
+      <answer>
+        <text>World Health Organization</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>...................... is a U.S. healthcare website that is provides information about U.S.&nbsp;healthcare for the past 125 years. It contains claim-level Medicare information, epidemiology, and population statistics.</p>]]></text>
+      <answer>
+        <text>Healthdata.gov</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 201  -->
+  <question type="matching">
+    <name>
+      <text>Q64</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Data staging includes three processes.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>The process of identification of incomplete and unreasonable data.<br></p>]]></text>
+      <answer>
+        <text>Cleansing</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>The process of transforming data such that it is suitable for analysis.</p>]]></text>
+      <answer>
+        <text>Transform</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>The process of structuring a database schema for minimizing redundancy.</p>]]></text>
+      <answer>
+        <text>Normalization</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 109  -->
+  <question type="multichoice">
+    <name>
+      <text>Q02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is not part of the 3Vs of
+big data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Volume<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Velocity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Variety<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span>Variable</span><br>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 110  -->
+  <question type="multichoice">
+    <name>
+      <text>Q03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which is the following tools enable marketers to
+recover, analyze and convert information into useful marketing information?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Business
+intelligence tools</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Predictive analytics tools<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data visualization tools<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Marketing automation tools<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 111  -->
+  <question type="multichoice">
+    <name>
+      <text>Q04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>……… is a firmware or low-level program that serves as
+a Virtual Machine Manager. It lets users to share a single physical instance of
+cloud resources among multiple tenants.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Management Software<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Hypervisor</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Network<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Server<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 112  -->
+  <question type="multichoice">
+    <name>
+      <text>Q05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is not a cloud deployment
+model?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Public Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Naas
+Cloud Model</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hybrid Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Community Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 114  -->
+  <question type="multichoice">
+    <name>
+      <text>Q07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the type of unstructured
+data generated by humans?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Text<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Social Media Data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Mobile Data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>All of
+these</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 115  -->
+  <question type="multichoice">
+    <name>
+      <text>Q08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the classifications of
+Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data Stores<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data Sources<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data Staging<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text>Content format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data processing</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 195  -->
+  <question type="multichoice">
+    <name>
+      <text>Q08 (copy)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the widely used definitions of
+Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="25" format="html">
+      <text>A large volume of scientific data for visualization.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>The amount of data, which surpasses existing technology's capability to store, manage, and process efficiently.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>BigData is a set of technologies that require new forms of integration to uncover large hidden values from large datasets that are diverse, complex, and of a massive scale.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>A new generation of technologies and architectures, designed to economically extract value from huge volumes of a wide variety of data, by enabling capture, discovery, and/or analysis.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Big Data can be defined as the process of manipulating, configuring, and accessing the application online. It provides users with the online data storage facilities, infrastructure, and applications.</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cloud Computing can be defined as the process of manipulating, configuring, and accessing the application online. It provides users with the online data storage facilities, infrastructure, and applications.<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 116  -->
+  <question type="multichoice">
+    <name>
+      <text>Q09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the type of unstructured
+data generated by machines?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Satellite images<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Radar or Sonar data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Scientific data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>All of
+these</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 117  -->
+  <question type="multichoice">
+    <name>
+      <text>Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which are four V’s of Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Volume refers to the size of data. Velocity refers to the speed at which the data is being generated. Variety refers to the different formats in which the data is being stored. Veracity refers to abnormality in data.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Velocity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Variety<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Veracity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Volume<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>Variable</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 118  -->
+  <question type="multichoice">
+    <name>
+      <text>Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which are the types of Data Sources?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>IoT</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Key Values<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Unstructured data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>None of these<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 119  -->
+  <question type="multichoice">
+    <name>
+      <text>Q12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is not a source of Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Internal Data Streams<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>External Data Streams<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Public
+Data Streams</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Shared Data Streams<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 120  -->
+  <question type="multichoice">
+    <name>
+      <text>Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Asynchronous Big Data analytics uses ……. method<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Image Capture<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Capture-Store-Analyze</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data Analysis<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data Validation<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 121  -->
+  <question type="multichoice">
+    <name>
+      <text>Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cleversafe belongs to which storage system?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Object
+storage systems</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>File storage systems<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data storage systems<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hierarchical storage systems<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 122  -->
+  <question type="multichoice">
+    <name>
+      <text>Q15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following technique is used to collect
+unstructured data from various sources, such as Webpages and Internet and
+convert it in to a structured table?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data Collection<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Information Gathering<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Data
+Extraction</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Data Validation<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 123  -->
+  <question type="multichoice">
+    <name>
+      <text>Q16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>……………. provides a platform for users to convert
+Webpages or Websites into a structured, machine-readable data.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Import.io</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>HTML</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>XML</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>MangoDB<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 124  -->
+  <question type="multichoice">
+    <name>
+      <text>Q17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the basic challenges of
+Big Data results?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Storing<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Processing<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Managing<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>All of
+these</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 126  -->
+  <question type="multichoice">
+    <name>
+      <text>Q19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is a data mining tool?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Qubole and BigML are data analysis tools.</p><p><br></p><p>For Hadoop developers, data engineers, data scientists and data analysts, the performance of queries against the data warehouse is crucial. Engineers at Facebook have developed Presto, which helps with the number of queries and achieves the required results quicker, thus improving productivity. Presto is an open-source SQL query solution in the Hadoop ecosystem for running interactive analytic queries on petabytes of data. Presto runs both in-memory and on disk. It can run simple queries on Hadoop within a few milliseconds and complex queries take only a few minutes. The capability to combine data from various sources in a single query and processing it seven times more efficiently on the CPU, make Presto an invention which should be invested in.</p><p><br></p><p>RapidMiner is a data mining tool for predictive analysis. It is a user-friendly tool and is used by technology giants, such as PayPal, eBay and Cisco. It is effective, pratical, and has a great open-source community behind it. It also provides APIs, using which users can integrate their specialized algorithms into RapidMiner.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Presto<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Qubole<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>BigML<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Rapid
+Miner</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 127  -->
+  <question type="multichoice">
+    <name>
+      <text>Q20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which data mining tool should be preferred for
+automating PL/SQL types of scripts?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hbase<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Apache Pig<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Oracle
+data mining</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Pentaho<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 128  -->
+  <question type="multichoice">
+    <name>
+      <text>Q21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are Data Analysis tools?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>BlockSpring<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>BlockSpring is a data integration tool. It is a unique program which includes the power of services, such as IFTTT and Zapier with familiar platforms, such as Excel and Google sheets. It allows to directly connnect to a host of third-party programs by just writing a Google sheet formula. Users can also post Tweets and view their followers. BlockSpring is available as both a free version as well as an organization package. This allows users to create and share function, add custom tags, and set API tokens for the entire organization at once.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Pentaho<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Pentaho is a data integration tool that uses drag and drop user interface to integrate the data. With mininal coding language, users can easily handle and work with Pentaho. It also offers embedded analytics and business analytics services. Pentaho is an enterprise package and users can request for a free trial of the product but later they will need to make a payment.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>Qubole</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>BigML</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 129  -->
+  <question type="multichoice">
+    <name>
+      <text>Q22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the extension of Hadoop’s ViewFS called?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Twitter
+ViewFS</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Twitter ReadFS<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Twitter FSView<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>CartoDB<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 130  -->
+  <question type="multichoice">
+    <name>
+      <text>Q23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following companies developed the
+open-source tool Dr.Elephant?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Linkedln has developed the open-source tool Dr.Elephant, which is a performance monitoring and tuning tool that helps to enhance cluster efficiency and developper productivity.&nbsp;Dr.Elephant analyzes Spark and Hadoop jobs through rule-based heuristics. This displays insights regarding the performance of a job and provides suggestions to the users as to how the job can be tuned to perform more effectively.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Facebook<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Twitter<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Linkedln</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Oracle<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 131  -->
+  <question type="multichoice">
+    <name>
+      <text>Q24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hadoop is designed using which programming model?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Hadoop, popularly referred to as Apache Hadoop, is an open-source Java-based software framework. It was developed by Doug Cutting and Mike J. Cafarella in 2006. It is designed using MapReduce programming model with an objective to save and process Big Data in a distributed way. Hadoop is designed to handle servers ranging one to a thousand at a time. Hence, in case of hardware failure of one node, Hadoop enables the system to continue operations.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>C#<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>HTML<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>MapReduce</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>.NET<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 132  -->
+  <question type="multichoice">
+    <name>
+      <text>Q25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the core components of
+Hadoop?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Hadoop consists of many functional modules; however, while setting up Hadoop, the two main components required are Hadoop Distributed File System (HDFS) and Yet Another Resource Negotiator (YARN). HDFS is highly scalable and stores Big Data across thousands of commodity servers. YARN is responsible for all the resource management and scheduling of jobs. MapReduce is a framework that uses distributed and parallel computing to processs large data sets inside the Hadoop environment in a reliable and fault-tolerant manner.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>HDFS (Hadoop Distributed File System)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>YARN (Yet Another Resource Negotiator)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>MapReduce<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>All of
+these</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 133  -->
+  <question type="multichoice">
+    <name>
+      <text>Q26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The data from HDFS is processed using which of the
+following framework?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>MapReduce is a Java-based software framework that uses distributed and parallel computing to process large data sets inside the Hadoop environment in a reliable and fault-tolerant manner. The main advantage of MapReduce is that it offers great data scalability over multiple nodes in a cluster.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>YARN (Yet Another Resource Negotiator)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>MapReduce</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ResourceManager<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>DataNode<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 134  -->
+  <question type="multichoice">
+    <name>
+      <text>Q27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The NameNode runs on which of the following
+operating systems?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p><p>HDFS follows a master-slave architecture and consists of a
+single NameNode, which acts as master and multiple DataNodes, which acts as
+slaves. The NameNode is the master server, which runs on GNU/Linux operating
+system.</p><br><p></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>GNU/Linux</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Unix<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Windows<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iOS<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 135  -->
+  <question type="multichoice">
+    <name>
+      <text>Q28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which component of YARN (Yet Another Resource
+Negotiator) has information about the number of live nodes and resources
+available on the cluster?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>YARN has two major components.<br></p><p><b>ResourceManager</b> is the master server which runs on a dedicated machine.&nbsp;ResourceManager has all the information about the number of live nodes and resources avaiable on the cluster. As per user application requests,&nbsp;ResourceManager decides when and which application will get access to the available resource with the help of a scheduler and ApplicationManager.<br></p><p><b>NodeManager</b> are installed on every DataNode and manage user's jobs on a given node.</p><p><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>NodeManager<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>ResourceManager</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>DataNode<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>TaskManager<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 136  -->
+  <question type="multichoice">
+    <name>
+      <text>Q29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is a grid-based clustering
+algorithm?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Wave-cluster</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>K-means<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>K-means is a partitioning-based clustering algorithm.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ROCK<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>ROCK is a hierarchical-based clustering algorithm.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>DENCLUE<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>DENCLUE is a density-based clustering algorithm.<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 137  -->
+  <question type="multichoice">
+    <name>
+      <text>Q30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which type of clustering works on task partitioning
+mechanism?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Organization network is made up of huge number of nodes and servers. To perform clustering on such networks, several multiple machine algorithms are used. The two types of multiple machine clustering methods are as follows:</p><p><br></p><p><b>Parallel Clusterig </b>divides the data partitions for distribution on different machines. Thus, the overall processing of Big Data speeds up the calculation and increases scalability.</p><p><br></p><p><b>MapReduce-based Clustering </b>is a task partitioning mechanism for Big Data in a distributed environment. The input data is first analyzed, cut into sub-tasks, and delegated environment. The input data is first analyzed, cut into sub-tasks, and delegated to different servers. The data will be processed using the Map function at these servers. The Map function has (key, value) pair, which is used to map the input data. The output from the servers is then collected and consolidated using the Reduce function.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Parallel clustering<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>MapReduce-base-clustering</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>K-means<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>X-means<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 138  -->
+  <question type="multichoice">
+    <name>
+      <text>Q31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following does DBSCAN stand for?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Database Spatial Clustering of Application with
+Noise<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Derivative-based Spatial Clustering of Application
+with Noise<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Density-based
+Spatial Clustering of Application with Noise</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Dynamic Spatial Clustering of Application with
+Noise<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 139  -->
+  <question type="multichoice">
+    <name>
+      <text>Q32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Data management encompasses which of the following
+data disciplines?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data integration<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data quality<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Content management<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10" format="html">
+      <text><![CDATA[<p><span>Data warehousing</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10" format="html">
+      <text><![CDATA[<p>Data governance</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10" format="html">
+      <text><![CDATA[<p>Event processing</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="10" format="html">
+      <text><![CDATA[<p>Database administration</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 140  -->
+  <question type="multichoice">
+    <name>
+      <text>Q33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of these clustering methods starts with one
+object that forms a separate group and recursively merges with two or more
+objects close to one another?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Divisive<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Statistical<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Agglomerative</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Neural<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 141  -->
+  <question type="multichoice">
+    <name>
+      <text>Q34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Identify the Computing resources from the following<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Network<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Storage<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Services<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Applications<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>All of
+these</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 143  -->
+  <question type="multichoice">
+    <name>
+      <text>Q36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What are the key issues of Iot?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p><span>Privacy</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p><span>Security</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Robust<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p><span>Expensive</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 144  -->
+  <question type="multichoice">
+    <name>
+      <text>Q37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is a type of business
+analytics?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Some of the specific types of business analytics:</p><p><ul><li><b>Descriptive Analytics:</b> Tracks the main performance indicators to comprehend the present state of a business.<br></li><li><b>Predictive Analytics:</b> Analyzes the trend data to evaluate the probability of future outcomes.<br></li><li><b>Prescriptive Analytics:</b> Uses past performance to create recommendations about how to manage related situations in the future.<br></li></ul></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Discovery analytics<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Prediction analytics<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Visualization analytics<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Prescriptive
+analytics</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 145  -->
+  <question type="multichoice">
+    <name>
+      <text>Q38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is a type of business
+analytics tools?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>BI report software<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Data visualization tools<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p><span>Big
+Data platforms</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p><span>Statistical
+analytics tools</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Self-service analytics platforms</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 146  -->
+  <question type="multichoice">
+    <name>
+      <text>Q39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is an example of a
+sophisticated analytics tool?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Sophisticated analytics tools take 'deeper-dive' into data analysis using approaches, such as predictive analytics (for example, IBM SPSS and SAS).<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Microstrategy<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>SPSS IBM<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>IBM SPSS<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>SAS
+and IBM SPSS</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 187  -->
+  <question type="multichoice">
+    <name>
+      <text>Q39 (copy)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is an example of a
+querying tool?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Querying tools run commonly used queries to deliver the analysis of data to a certain level, such as SAP Business and IBM Cognos.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>IBM Cognos<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>SAP Business<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>IBM SPSS<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>SAS</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 147  -->
+  <question type="multichoice">
+    <name>
+      <text>Q40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Business analytics tools can be divided into …………
+categories.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Techniques of BA can be divided into two main areas:</p><p></p><ul><li><b>Basic Business Intelligence</b>.&nbsp;Business Intelligence consists of studying historical data to understand how a staff member, a team, or a business department has performed over a specific time period. Most of the enterprises have been successful in using this technique.&nbsp;<br></li><li><b>Deep Statistical Analysis</b>. This involves executing predictive analytics by applying statistical algorithmes to historical data, to predict the future performance of a service, website design change, or a product. It could also mean that using other advanced analytics techniques, such as cluster analysis on various data points to group customers based on similarities. This method can be useful in targeted marketing campaigns.<br></li></ul><p></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Two</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Four<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Three<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Five</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 148  -->
+  <question type="multichoice">
+    <name>
+      <text>Q41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following company focuses on end-user
+data prep for Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Companies who focus on end-user data prep for Big Data are Trifacta, Alteryx and Paxata.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Apache Ranger<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Paxata</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Microsoft<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Oracle<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 169  -->
+  <question type="multichoice">
+    <name>
+      <text>Q42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Advantages of cloud computing are:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Cost savings</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Reliability</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Manageability</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Strategic edge</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Downtime</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Security</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Vendor lock-in</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Limited control</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 170  -->
+  <question type="multichoice">
+    <name>
+      <text>Q43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Disadvantages of cloud computing are:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Cost savings</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Reliability</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Manageability</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Strategic edge</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Downtime</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Cloud service providers handle numerous client every day and there are chances that they can be flooded, which results in technical outages. This may cause the business processes to be interrupted temporarily. Additionally, if the users are offline, they cannot access any of their applications, server, or information from the cloud.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Security</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Vendor lock-in</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>Limited control</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 171  -->
+  <question type="multichoice">
+    <name>
+      <text>Q44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>.......... refers to the different formats in which the data is being stored.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Volume refers to the size of data. Velocity refers to the speed at which the data is being generated. Variety refers to the different formats in which the data is being stored. Veracity refers to abnormality, biases, and noise in data.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Velocity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Variety<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Veracity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Volume<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>Variable</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 172  -->
+  <question type="multichoice">
+    <name>
+      <text>Q45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>......... refers to abnormality, biases, and noise in data.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Volume refers to the size of data. Velocity refers to the speed at which the data is being generated. Variety refers to the different formats in which the data is being stored. Veracity refers to abnormality, biases, and noise in data.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Velocity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Variety<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Veracity<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Volume<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>Variable</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 184  -->
+  <question type="multichoice">
+    <name>
+      <text>Q48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which component of YARN (Yet Another Resource
+Negotiator) manage user's jobs on a given node?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>YARN has two major components.<br></p><p><b>ResourceManager</b> is the master server which runs on a dedicated machine.&nbsp;ResourceManager has all the information about the number of live nodes and resources avaiable on the cluster. As per user application requests,&nbsp;ResourceManager decides when and which application will get access to the available resource with the help of a scheduler and ApplicationManager.<br></p><p><b>NodeManager</b> are installed on every DataNode and manage user's jobs on a given node.</p><p><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>NodeManager<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>ResourceManager</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>DataNode<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>TaskManager<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 185  -->
+  <question type="multichoice">
+    <name>
+      <text>Q48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of these clustering methods starts with all objects grouped in one cluster and the cluster is split into smaller cluster recursively. The termination point is when there is each object in one cluster.&nbsp;<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Divisive<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Statistical<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>Agglomerative</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Neural<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 186  -->
+  <question type="multichoice">
+    <name>
+      <text>Q49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Some advantages of Big Data analytics are:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>Companies gain competitive advantages.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>It reduces operational costs and risks.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>It identifies and fine-tunes business strategies</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>It provides a 360-degree view of the organiation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<p>It can be used to intergrate feedback from external customers and internal end users.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 189  -->
+  <question type="multichoice">
+    <name>
+      <text>Q52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following companies developed the
+open-source tool Pig?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Pig is introduced by Yahoo. Pig became open-source in the year 2007. It is a high level procedural programming platform developed for streamlining large data sets query in MapReduce and Hadoop.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Facebook<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Twitter<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Yahoo</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Oracle<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 190  -->
+  <question type="multichoice">
+    <name>
+      <text>Q52 (copy)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following companies developed the
+data warehouse tool Hive?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Hive is introduced by Facebook. Hive is data warehouse tool based on Hadoop. It translates query languages into MapReduce jobs. It also deals with the analysis storage, and queries of large sets of data. The Hive Query Language (HQL) is analogous to the standard SQL statement.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Facebook<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Twitter<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span>Yahoo</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Oracle<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 191  -->
+  <question type="multichoice">
+    <name>
+      <text>Q54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is a high level procedural programming platform developed for streamlining large data sets query in MapReduce and Hadoop.?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Pig is introduced by Yahoo. Pig became open-source in the year 2007. It is a high level procedural programming platform developed for streamlining large data sets query in MapReduce and Hadoop.<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Pig</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Hive<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>HBase<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>OpenRefine<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 192  -->
+  <question type="multichoice">
+    <name>
+      <text>Q55</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are data visualization tools?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>BlockSpring<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>BlockSpring is a data integration tool. It is a unique program which includes the power of services, such as IFTTT and Zapier with familiar platforms, such as Excel and Google sheets. It allows to directly connnect to a host of third-party programs by just writing a Google sheet formula. Users can also post Tweets and view their followers. BlockSpring is available as both a free version as well as an organization package. This allows users to create and share function, add custom tags, and set API tokens for the entire organization at once.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Pentaho<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Pentaho is a data integration tool that uses drag and drop user interface to integrate the data. With mininal coding language, users can easily handle and work with Pentaho. It also offers embedded analytics and business analytics services. Pentaho is an enterprise package and users can request for a free trial of the product but later they will need to make a payment.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>Silk</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>Plo.ly</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 193  -->
+  <question type="multichoice">
+    <name>
+      <text>Q57</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the cloud service models?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Public Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>NaaS Cloud Model</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>IDaaS&nbsp;Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Community Cloud Model<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 194  -->
+  <question type="multichoice">
+    <name>
+      <text>Q58</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>IDaaS consists of the following services:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Customer Relationship Management Applications</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>Directory services</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>Identity and profile management</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Identity and profile management is SaaS.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Human Resource Solutions<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>&nbsp;Human Resource Solutions is SaaS.<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 196  -->
+  <question type="multichoice">
+    <name>
+      <text>Q59</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the characteristics of
+IaaS service model?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>It supports share data model, thus, allowing many users to share a single instance of the infrastructure. The functionality need not be hard coded for specific users.<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>It is a characteristic of SaaS service model.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>It allows computing resources to be scaled up and down easily.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>It has the provision to save copies of specific data in different locations.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>It offers on-demand availability of resources.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p>It supports virtual machines that have pre-installed software and pre-installed operating systems such as Windows, Linux and Solaris.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 197  -->
+  <question type="multichoice">
+    <name>
+      <text>Q60</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which is the following tool evaluates Facebook's Big Data and offers details about user's lifestyle, likes, household details, purchasing habits, and so on.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Facebook Insights</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Facebook Ads<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Google AdWords<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Dr. Elephant<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Linkedln has developed the open-source tool Dr.Elephant, which is a performance monitoring and tuning tool that helps to enhance cluster efficiency and developper productivity.&nbsp;Dr.Elephant analyzes Spark and Hadoop jobs through rule-based heuristics. This displays insights regarding the performance of a job and provides suggestions to the users as to how the job can be tuned to perform more effectively.<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 198  -->
+  <question type="multichoice">
+    <name>
+      <text>Q61</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following provides statistics on search volume for a specified term.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>Google Trends</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Google Finance<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Google Books<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Gooogle Public data explorer<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 202  -->
+  <question type="multichoice">
+    <name>
+      <text>Q65</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following are the type of semi-structured
+data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Satellite images<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Radar or Sonar data is unstructured data generated by machines.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Radar or Sonar data<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Radar or Sonar data is unstructured data generated by machines.<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>Sensor data<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p><span>Email</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 203  -->
+  <question type="multichoice">
+    <name>
+      <text>Q66</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Apache Hbase is ................................</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>a key-value storage system</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a column-oriented database</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a graph database<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a document-oriented data store<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 108  -->
+  <question type="truefalse">
+    <name>
+      <text>Q01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The term ‘Big Data’ signifies large volume of data,
+which is difficult to save, process, and evaluate using traditional database
+technologies. Is this statement true or false?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 113  -->
+  <question type="truefalse">
+    <name>
+      <text>Q06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>XML is classified as unstructured data.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 125  -->
+  <question type="truefalse">
+    <name>
+      <text>Q18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Python is helpful for advanced analytics that
+involves Artifical Intelligence (AI) and Machine Learning (ML). Is this true or
+false?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 142  -->
+  <question type="truefalse">
+    <name>
+      <text>Q35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Is data movement the biggest challenge of Big Data?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
