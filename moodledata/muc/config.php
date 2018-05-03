@@ -642,6 +642,13 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'theme_moove/admininfos' => 
+    array (
+      'mode' => 1,
+      'ttl' => 3600,
+      'component' => 'theme_moove',
+      'area' => 'admininfos',
+    ),
   ),
   'definitionmappings' => 
   array (
